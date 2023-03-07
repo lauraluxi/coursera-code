@@ -3,3 +3,6 @@ log.txt
 
 #Webpage
 index.html
+
+#Auto generated dirs
+AutoGen/*
